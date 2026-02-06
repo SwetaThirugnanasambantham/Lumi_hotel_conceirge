@@ -1,0 +1,7 @@
+{
+  "name": "Lumi - Luxury Hotel Concierge",
+  "description": "A high-performance hospitality chatbot for guest assistance, hotel services, and local attractions using Gemini AI with Google Maps grounding.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
