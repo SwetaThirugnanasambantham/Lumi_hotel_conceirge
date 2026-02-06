@@ -69,7 +69,7 @@ A fully integrated booking workflow for the hotel's premier wellness center:
 
 ## 🔒 Security & Performance
 
--   **Environment Variables**: The application strictly uses `process.env.API_KEY` for secure Gemini API access.
+-   **Environment Variables**: The application strictly uses `process.env.API_KEY` for secure API access.
 -   **Geolocation API**: Requires user permission to provide hyper-local recommendations within the Erode district.
 -   **Optimized Audio Pipeline**: Implements custom Base64-to-Uint8Array decoding to handle raw PCM streams efficiently without third-party library bloat.
 -   **Responsive Design**: A hybrid sidebar-chat layout optimized for both desktop executive suites and mobile travel.
